@@ -10,7 +10,7 @@ bless_msgs = ["Toad has been given a blessing, increasing experience by 1.5x!",
 "Toad's blessing has 30 minutes remaining!",
 "Toad's blessing has 15 minutes remaining!",
 "Toad's blessing has 5 minutes remaining!",
-"Toad's blessing has ended!",]
+"Toad's blessing has ended!"]
 
 def blessing():
     for i in range(6):
