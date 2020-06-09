@@ -1,6 +1,7 @@
 # NinOnline-Blessing-Notifier
 Python notifier for ingame event - blessing in game Nin Online
 
+> Python 3.8.3
 
 ## Setup
 > pip install discord_webhook 
