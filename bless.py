@@ -28,8 +28,8 @@ def blessing():
             time.sleep(300)
 
 while True:
+    time.sleep(60)
     pos = searchIMG.imagesearch()
-    time.sleep(30)
     if pos[0] != -1:
         print("position : ", pos[0], pos[1])
         blessing()
